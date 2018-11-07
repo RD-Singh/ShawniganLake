@@ -1,0 +1,7 @@
+In file included from C:\Users\RD SINGH\Desktop\General\Robotics\PROS\include\api.h:52:0,
+                 from C:\Users\RD SINGH\Desktop\General\Robotics\PROS\include\main.h:37,
+                 from C:\Users\RD SINGH\Desktop\General\Robotics\PROS\src\autonomous.cpp:2:
+C:\Users\RD SINGH\Desktop\General\Robotics\PROS\include\pros/llemu.h:30:26: fatal error: display/lvgl.h: No such file or directory
+ #include "display/lvgl.h"
+                          ^
+compilation terminated.
